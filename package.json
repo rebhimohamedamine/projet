@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "server": "pm2 start server.js --watch"
+    "start": "node script.js",
+    "server": "pm2 start script.js --watch"
   },
   "author": "",
   "license": "ISC",
